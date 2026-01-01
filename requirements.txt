@@ -1,0 +1,22 @@
+# AITrade - минимальные зависимости
+# Для torch с CUDA: pip install torch --index-url https://download.pytorch.org/whl/cu118
+
+aiohttp
+joblib
+matplotlib
+numba
+numpy
+pandas
+plotly
+PyQt5
+pyqtgraph
+python-dotenv
+redis
+requests
+scikit-learn
+scipy
+Telethon
+torch
+tqdm
+transformers
+xgboost
